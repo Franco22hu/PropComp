@@ -14,4 +14,5 @@ It is best used from a Total Commander custom toolbar button.
 	Parameters: %X%P%N %X%T%M
 	Start path: ...\PropComp\
 	```
+	Start path should be the containing folder of the compiled file
 1. Select two files on both sides, then press the compare button
